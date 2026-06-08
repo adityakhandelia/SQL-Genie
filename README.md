@@ -87,7 +87,6 @@ A lightweight Gradio interface allows users to:
 
 ### Demo
 
-![SQL Genie UI](screenshots/ui.png)
 
 ---
 
